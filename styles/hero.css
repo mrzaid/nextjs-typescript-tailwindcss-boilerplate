@@ -1,0 +1,70 @@
+.fill0 {
+  position: absolute;
+  width: 351px;
+  height: 580px;
+  top:37px;
+  left:140px;
+  z-index: 1;
+}
+
+/* 
+
+
+
+
+
+/* .abc{
+ width: 300px;
+
+}
+
+
+  */
+.fill4 {
+  position: absolute;
+
+  top: -96px;
+
+  left: -10px;
+  z-index: -1;
+}
+.fill1 {
+  position: absolute;
+  top: -600px;
+  right: 40px;
+}
+.fill2 {
+  position: absolute;
+  z-index: -1;
+
+  right: 114px;
+  bottom: -244px;
+  
+}
+.fill3 {
+  position: absolute;
+
+  bottom:80px;
+  right: 0px;
+
+}
+.fill5 {
+  position: absolute;
+  bottom:-750px;
+  z-index: -2;
+  left: 37px;
+  
+
+}  
+.findusblue{
+  position: absolute;
+  z-index: -2;
+  top: 10px;
+  right: -15px;
+}
+.findusyellow{
+  position: absolute;
+  z-index: -1;
+  bottom: 10px;
+  left: -20px;
+}

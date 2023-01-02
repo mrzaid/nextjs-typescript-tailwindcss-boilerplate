@@ -1,10 +1,11 @@
-import { AppProps } from 'next/app';
-import Layout from '../components/layout';
-import '../styles/index.css';
+import { AppProps } from "next/app";
+import Layout from "../components/layout";
+import "../styles/index.css";
+import "../styles/hero.css";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <Layout title='Next.js + TypeScript + Tailwind CSS — My personal boilerplate for bootstrapping Next.js with TypeScript and Tailwind CSS.'>
+    <Layout>
       <Component {...pageProps} />
     </Layout>
   );

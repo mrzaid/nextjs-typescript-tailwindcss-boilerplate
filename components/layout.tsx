@@ -28,6 +28,9 @@ function Layout({ children }: Props) {
       {/* <AddedComponent/> */}
 
       {/* <AddedComponent/> */}
+      {/* <AddedComponent/> */}
+      {/* <AddedComponent/> */}
+      {/* <AddedComponent/> */}
 
       {/* <AddedComponent/> */}
     </div>

@@ -24,6 +24,7 @@ function Layout({ children }: Props) {
       <Freshmart />
       <FindUs />
       <WeFresh />
+      {/* <AddedComponent/> */}
     </div>
   );
 }
